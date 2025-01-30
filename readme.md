@@ -14,7 +14,7 @@ Bem-vindo ao meu GitHub! 🚀
 
 <div width="100%">
  <span align="left">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rhuanbello&show_icons=true&hide_border=true&bg_color=A9A9A&title_color=00E6FE&icon_color=FFB6C1&text_color=FFFFFF"/>
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rhuanbello&show_icons=true&hide_border=true&bg_color=A9A9A9&title_color=00E6FE&icon_color=FFB6C1&text_color=FFFFFF"/>
  </span>
 <!--  <span align="right">
   <img width="45%" src="https://i.imgur.com/w8cF9mr.png"/>
