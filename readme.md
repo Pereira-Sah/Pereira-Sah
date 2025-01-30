@@ -2,7 +2,7 @@
 <p aligh="left">
 <!--   <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
 
-  # 👋 Olá! Eu sou a Sabrina Pereira
+  # 👋 Olá! Eu sou Sabrina Pereira
 
 Bem-vindo ao meu GitHub! 🚀 
  
