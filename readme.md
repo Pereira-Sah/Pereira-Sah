@@ -10,16 +10,6 @@ Bem-vindo ao meu GitHub! 🚀
 🌱 **Atualmente, estou aprofundando meus conhecimentos em Front-end.**  
 ❤ **Amo tecnologia e programação!**  
 
-## 📈 &nbsp;Some Code Stats ##
-
-<div width="100%">
- <span align="left">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Pereira-Sah&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=FFB6C1&icon_color=FFB6C1&text_color=FF69B4"/>
- </span>
-<!--  <span align="right">
-  <img width="45%" src="https://i.imgur.com/w8cF9mr.png"/>
- </span> -->
-</div>
 
 ## 👩🏾‍💻 &nbsp;Things I code with ##
 <div style="display: inline_block"><br>
