@@ -1,26 +1,31 @@
+# 👋 Olá! Eu sou a Sabrina Pereira
 
-<p aligh="left">
-<!--   <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+</div>
 
-  # 👋 Olá! Eu sou Sabrina Pereira
+### 🚀 Bem-vindo ao meu GitHub!
 
-Bem-vindo ao meu GitHub! 🚀 
- 
-💡 **Sempre disposta a explorar novas tendências e aprender novas tecnologias!**  
-🌱 **Atualmente, estou aprofundando meus conhecimentos em Front-end.**  
-❤ **Amo tecnologia e programação!**  
+💡 **Sobre mim:** Sempre disposta a explorar novas tendências e aprender novas tecnologias!
+🌱 **Foco atual:** Estou aprofundando meus conhecimentos em **Front-end**.
+❤️ **Paixão:** Amo tecnologia e o poder da programação para transformar ideias em realidade.
 
+---
 
-## 👩🏾‍💻 &nbsp;Things I code with ##
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" height="30" width="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="30" width="40" alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>  
+### 🛠 Tecnologias que domino
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,c,mysql,git,vscode)](https://skillicons.dev)
 
+---
+
+### 📈 Meu Impacto no GitHub
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pereira-Sah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Sah&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 🤝 Vamos nos conectar?
+<div> 
+  <a href="SEU_LINK_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
