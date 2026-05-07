@@ -2,8 +2,6 @@
 # ⚡ Sabrina Pereira
 *(Desenvolvedora Full Stack / Estudante de Desenvolvimento de Software)*
 
-<img src="https://i1-c.pinimg.com/736x/9a/df/e4/9adfe4724568e585b775e36e93d0088b.jpg" width="600" />
-
 ---
 
 ### 💫 Sobre Mim
@@ -17,14 +15,6 @@ Acredito que o código deve ser funcional e intuitivo.
 ### 🛠 My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,java,php,postgres,mongodb,docker,git,py" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pereira-sah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-sah&layout=compact&theme=tokyonight" />
 </p>
 
 ---
