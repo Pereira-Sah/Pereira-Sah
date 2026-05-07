@@ -2,7 +2,7 @@
 # ⚡ Sabrina Pereira
 *(Desenvolvedora Full Stack / Estudante de Desenvolvimento de Software)*
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+<img src="https://i1-c.pinimg.com/736x/9a/df/e4/9adfe4724568e585b775e36e93d0088b.jpg" width="600" />
 
 ---
 
