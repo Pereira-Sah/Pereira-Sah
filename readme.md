@@ -1,31 +1,40 @@
-# 👋 Olá! Eu sou a Sabrina Pereira
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
-</div>
+# ⚡ Sabrina Pereira
+*(Desenvolvedora Full Stack / Estudante de Desenvolvimento de Software)*
 
-### 🚀 Bem-vindo ao meu GitHub!
-
-💡 **Sobre mim:** Sempre disposta a explorar novas tendências e aprender novas tecnologias!
-🌱 **Foco atual:** Estou aprofundando meus conhecimentos em **Front-end**.
-❤️ **Paixão:** Amo tecnologia e o poder da programação para transformar ideias em realidade.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 
 ---
 
-### 🛠 Tecnologias que domino
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,c,mysql,git,vscode)](https://skillicons.dev)
+### 💫 Sobre Mim
+Sou um entusiasta da tecnologia focado em criar soluções eficientes.  
+Acredito que o código deve ser funcional e intuitivo.
+
+`JavaScript` • `TypeScript` • `Java` • `React` • `Python` • `PHP` 
 
 ---
 
-### 📈 Meu Impacto no GitHub
+### 🛠 My Tech Stack
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pereira-Sah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-Sah&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,java,php,postgres,mongodb,docker,git,py" />
 </p>
 
 ---
 
-### 🤝 Vamos nos conectar?
-<div> 
-  <a href="SEU_LINK_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pereira-sah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-sah&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Conecte-se comigo
+<p align="center">
+  <a href="mailto:ssabrina.pereirasantos1105@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sabrina-s-823a31249?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+
+---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
 </div>
